@@ -18,8 +18,6 @@ import com.product.demo.services.ProductService;
 
 
 @Controller
-
-
 public class ProductController
 
 {
